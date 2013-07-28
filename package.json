@@ -1,0 +1,16 @@
+{
+  "name": "super-rare-id",
+  "description": "sortable 64-bit base64 ids",
+  "version": "0.0.1",
+  "author": "espr <espr@newcu.be>",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "espr-util":"latest",
+    "coffee-script":"latest",
+    "mocha":"latest",
+    "chai":"latest"
+  },
+  "main": "index",
+  "engines": { "node": "*" }
+}
