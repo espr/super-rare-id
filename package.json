@@ -3,6 +3,10 @@
   "description": "sortable 64-bit base64 ids",
   "version": "0.0.1",
   "author": "espr <espr@newcu.be>",
+  "repository":"https://github.com/espr/super-rare-id.git",
+  "scripts":{
+    "test": "./node_modules/.bin/cake test"
+  },
   "dependencies": {
   },
   "devDependencies": {
