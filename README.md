@@ -3,6 +3,8 @@ super-rare-id
 
 sortable 64-bit base64 ids
 
+[![Build Status](https://travis-ci.org/espr/super-rare-id.png)](https://travis-ci.org/espr/super-rare-id)
+
 license
 -------
 The MIT License (MIT)
